@@ -8,29 +8,27 @@ Number and name of feature:
 Estimate of time needed to complete: 2 hour
 
 Start time: 9pm
-
-Finish time: _____
-
-Actual time needed to complete: _____
+Finish time: 10:30pm
+Actual time needed to complete: 1.5 hour
 
 
 * 2-Filter images
 
 Estimate of time needed to complete: 1 hour
 
-Start time: pm
+Start time: 10:30pm
 
-Finish time: _____
+Finish time: 11:30pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour
 
 
 * 3-Style the application
                     
 Estimate of time needed to complete: 30 min
 
-Start time: pm
+Start time: 11:30pm
 
-Finish time: _____
+Finish time: 12:30pm
 
-Actual time needed to complete: _____
+Actual time needed to complete: 1 hour
