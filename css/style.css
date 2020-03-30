@@ -1,0 +1,42 @@
+h1{
+    margin-top: 2%;
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+    font-size: 30px;
+}
+img{
+width: 200px;
+height: 200px;
+}
+select{
+margin-top: 2%;
+margin-left: 45%;
+
+}
+#photo-template{
+display: none;
+}
+.on{
+display: block;  
+}
+main{
+position: absolute;
+right: 0;
+left: 0;
+}
+section{
+border: solid black 1px;
+width: 200px;
+height: 300px;
+margin-left: 10px;
+margin-top: 20px;
+float: left;
+text-align: center;
+}
+footer{
+position: absolute;
+bottom: 0px;
+text-align: center;
+right: 0px;
+left: 0px;
+}
